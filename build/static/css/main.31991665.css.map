@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.31991665.css","mappings":"AACA,QAGI,qBAAsB,CADtB,YAAa,CADb,iBAGJ","sources":["style.css"],"sourcesContent":["\r\n.footer{\r\n    text-align: center;\r\n    padding: 20px;\r\n    background-color: gray;\r\n}"],"names":[],"sourceRoot":""}
